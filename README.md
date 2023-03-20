@@ -12,7 +12,4 @@ Hotel Management system based on Object Oriented Programming. Object-oriented pr
 5. Admin
 
 # Database
-
-Microsoft Access Database
-#
-Database file is inside the Hotel Management System folder
+Microsoft Access Database. Database file is inside the Hotel Management System folder
