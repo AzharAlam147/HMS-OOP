@@ -17,7 +17,7 @@ Microsoft Access Database. Database file is inside the Hotel Management System f
 # Visual Studio
 Visual Studio 2017-2022
 
-#GUI
+# GUI
 
 ![1](https://user-images.githubusercontent.com/73800301/226425960-337d1e44-d516-4c8d-8521-40eaeb8e7889.PNG)
 ![2](https://user-images.githubusercontent.com/73800301/226425967-7734d582-372a-4001-9733-39ecf605aaeb.PNG)
